@@ -19,7 +19,7 @@ paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-<iframe src="https://onedrive.live.com/embed?cid=D93412E825705104&resid=D93412E825705104%21270747&authkey=AKxZbQgSNgAbb2s" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=D93412E825705104&resid=D93412E825705104%21270747&authkey=AKxZbQgSNgAbb2s" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
