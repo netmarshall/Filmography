@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://netmarshall.github.io/Filmography/assets/img/Chicago.jpg
+  https://netmarshall.github.io/Filmography/assets/img/new-cover.png
 optimized_image: >-
   https://netmarshall.github.io/Filmography/assets/img/Chicago.jpg
 category: blog
