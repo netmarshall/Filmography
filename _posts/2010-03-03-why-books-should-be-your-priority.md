@@ -4,8 +4,8 @@ layout: post
 title: Macabaret
 subtitle: Macabaret - A night of song, dance, and terror
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://netmarshall.github.io/Filmography/assets/img/Macabaret-wide.png
-optimized_image: https://netmarshall.github.io/Filmography/assets/img/Macabaret-wide.png
+image: https://netmarshall.github.io/Filmography/assets/img/Macabaret-Square.jpg
+optimized_image: https://netmarshall.github.io/Filmography/assets/img/Macabaret-Square.jpg
 category: Macabaret
 tags:
   - Macabaret
