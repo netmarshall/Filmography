@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/bio-photo.jpg" alt="John Marshall" width="200">
+<img class="img-rounded" src="/Filmography/assets/img/bio-photo.jpg" alt="John Marshall" width="200">
 
 # About
 
