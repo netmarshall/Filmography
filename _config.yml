@@ -40,7 +40,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/Filmography/" # the subpath of your site, e.g. /blog
+baseurl: "/Filmography" # the subpath of your site, e.g. /blog
 url: "https://netmarshall.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
