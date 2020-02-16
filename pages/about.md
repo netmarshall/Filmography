@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img src="https://netmarshall.github.io/Filmography/assets/img/bio-photo.jpg" width="200">
+<img class="img-rounded" src="https://netmarshall.github.io/Filmography/assets/img/bio-photo.jpg" width="200">
 
 # About
 
