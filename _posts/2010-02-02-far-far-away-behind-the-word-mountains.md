@@ -1,20 +1,20 @@
 ---
 date: 2019-05-12T19:17:18.000Z
 layout: post
-title: Far far away behind the word mountains
+title: A universal tale of fame, fortune and all that jazz
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme5_wmutla.jpg
+  https://netmarshall.github.io/Filmography/assets/img/Chicago-wide.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme5_wmutla.jpg
-category: travel
+  https://netmarshall.github.io/Filmography/assets/img/Chicago-wide.png
+category: Chicag0
 tags:
-  - mountains
-  - travel
-  - adventure
+  - Chicago
+  - PSHS
+  - Shows
 author: thiagorossener
 paginate: true
 ---
