@@ -7,10 +7,10 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://netmarshall.github.io/Filmography/assets/img/Chicago-wide.png
+  https://netmarshall.github.io/Filmography/assets/img/Chicago-Square.jpg
 optimized_image: >-
-  https://netmarshall.github.io/Filmography/assets/img/Chicago-wide.png
-category: Chicag0
+  https://netmarshall.github.io/Filmography/assets/img/Chicago-Square.jpg
+category: Chicago
 tags:
   - Chicago
   - PSHS
