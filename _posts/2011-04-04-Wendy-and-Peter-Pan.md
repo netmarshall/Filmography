@@ -4,8 +4,8 @@ layout: post
 title: Wendy and Peter Pan
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://netmarshall.github.io/Filmography/assets/img/Wendy-and-Peter-Pan-Square.jpg
-optimized_image: https://netmarshall.github.io/Filmography/assets/img/Wendy-and-Peter-Pan-Square.jpg
+image: https://netmarshall.github.io/Filmography/assets/img/Wendy-and-Peter-Pan-banner.png
+optimized_image: https://netmarshall.github.io/Filmography/assets/img/Wendy-and-Peter-Pan-banner.png
 category: css
 tags:
   - Wendy and Peter Pan
